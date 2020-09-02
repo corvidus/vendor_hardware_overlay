@@ -110,6 +110,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote7 \
 	treble-overlay-xiaomi-redminote8pro \
 	treble-overlay-xiaomi-redmis2 \
+	treble-overlay-ulefone-armor_7 \
 
 
 PRODUCT_PACKAGES += \
